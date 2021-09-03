@@ -5,7 +5,7 @@
 
 ## Data Science
  ### Python
-      [SVM](https://github.com/Joao-Salero/Data-Science-Projects/blob/master/SVM/.ipynb_checkpoints/SVM%20-%20Predict%20Buying%20Intent%20for%20E-Commerce%20Users-checkpoint.ipynb)
+- [SVM](https://github.com/Joao-Salero/Data-Science-Projects/blob/master/SVM/.ipynb_checkpoints/SVM%20-%20Predict%20Buying%20Intent%20for%20E-Commerce%20Users-checkpoint.ipynb)
 
 
 

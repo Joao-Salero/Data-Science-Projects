@@ -2,7 +2,7 @@
  
  Hi! Welcome to my repository!
  
- I'm João Salero, Brazilian (living in Dublin/Ireland), 33-years-old. [My LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-s-37aa011a8/)
+ I'm [João Salero](https://www.linkedin.com/in/jo%C3%A3o-s-37aa011a8/), Brazilian (living in Dublin/Ireland), 33-years-old. 
 
  My idea when creating this repository is collaborating with the [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) community and, in addition, to demonstrating my level of knowledge and my evolution in Machine Learning. 
 
@@ -26,5 +26,5 @@
 
 
 ---
-
+[My LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-s-37aa011a8/)
 

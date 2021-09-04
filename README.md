@@ -4,7 +4,7 @@
  
  I'm [João Salero](https://www.linkedin.com/in/jo%C3%A3o-s-37aa011a8/), Brazilian (living in Dublin/Ireland), 33-years-old. 
 
- My idea when creating this repository is collaborating with the [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) community and, in addition, to demonstrating my level of knowledge and my evolution in Machine Learning. 
+ My idea is collaborating with the [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) community and, in addition, to demonstrating my level of knowledge and my evolution in Machine Learning. 
 
  Some of projects are focused on [Data Science](https://en.wikipedia.org/wiki/Data_science) and others are focused on [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning). All exercises are below, divided by theme and language ([R](https://www.r-project.org/) and [Python](https://www.python.org/)).
 

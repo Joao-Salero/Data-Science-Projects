@@ -2,7 +2,10 @@
  
  Hi! Welcome to my repository!
  
- I'm [João Salero](https://www.linkedin.com/in/jo%C3%A3o-s-37aa011a8/), Brazilian (living in Dublin/Ireland), 33-years-old. 
+ I'm [João Salero](https://www.linkedin.com/in/jo%C3%A3o-s-37aa011a8/), Brazilian (living in Dublin/Ireland), 33-years-old.
+
+ I'm starting a new phase of studies at MIT's [MicroMasters® Program in Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science), and I own the
+ [Data Scientist Training](https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados) and the [Artificial Intelligence Training](https://www.datascienceacademy.com.br/bundle/formacao-inteligencia-artificial).
 
  My idea is collaborating with the [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) community and, in addition, to demonstrating my level of knowledge and my evolution in Machine Learning. 
 
@@ -28,4 +31,4 @@
 ---
 My [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-s-37aa011a8/)
 
-Some of the exercises comes from the classes and study proposals of the [Data Science Academy](https://www.datascienceacademy.com.br/ {target="_blank"}), an e-course platform.
+Some of the exercises comes from the classes and study proposals of the [Data Science Academy](https://www.datascienceacademy.com.br/), an e-course platform.

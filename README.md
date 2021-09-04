@@ -3,7 +3,7 @@
 
 ## Hi! Welcome to my repository!
  
- My name is João, Brazilian (living in Dublin/Ireland), 33-years-old.
+ My name is João, Brazilian (living in Dublin/Ireland), 33-years-old. [My LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-s-37aa011a8/)
 
  My idea my idea when creating this repository is collaborating with the Machine Learning community. In addition to demonstrating my level of knowledge and my evolution in Machine Learning. 
 
@@ -12,6 +12,7 @@
  So, all the “mini-projects” I will review over time, updating them as I learn more techniques.
 
  Please, feel free to consult all the material. ###I hope I can help the community in some way###.
+
 
 ## Data Science
  ### Python
@@ -26,5 +27,5 @@
 
 
 ---
-[My LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-s-37aa011a8/)
+
 

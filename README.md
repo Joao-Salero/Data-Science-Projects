@@ -1,4 +1,4 @@
-# Data Science Projects 
+# Machine Learning Study Projects 
  
  Hi! Welcome to my repository!
  

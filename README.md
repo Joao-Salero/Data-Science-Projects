@@ -29,6 +29,6 @@
 
 
 ---
-My [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-s-37aa011a8/)
+My [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-s-37aa011a8/).
 
-Some of the exercises comes from the classes and study proposals of the [Data Science Academy](https://www.datascienceacademy.com.br/), an e-course platform.
+Note: Some of the exercises comes from the classes and study proposals of the [Data Science Academy](https://www.datascienceacademy.com.br/), an e-course platform.

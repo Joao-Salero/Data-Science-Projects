@@ -1,9 +1,9 @@
 # Real-time Interactive Dashboard for [Ethereum](https://ethereum.org/en/) Prediction with [Prophet](https://facebook.github.io/prophet/)
 
 
-## Título para descrever o conteúdo
+## Proposal
 
-Escrever o conteúdo.    
+Dashboard to predict the value of the Ethereum cryptocurrency over time using [fbProphet](https://facebook.github.io/prophet/) for time series analysis.   
 
 ### Guideline 
  1. Create a new folder;

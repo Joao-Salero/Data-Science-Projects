@@ -19,7 +19,7 @@
 ## Data Science
  ### Python
 - [SVM](https://github.com/Joao-Salero/Data-Science-Projects/tree/master/SVM)
-- [Prophet]()
+- [Prophet](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/Prophet)
 - [Monte Carlo](https://github.com/Joao-Salero/Data-Science-Projects/tree/master/MonteCarlo)
 
 

@@ -23,16 +23,7 @@
 - [Monte Carlo](https://github.com/Joao-Salero/Data-Science-Projects/tree/master/MonteCarlo)
 
  ### R
- 
----
-
-## Deep Learning
- ### Python
- 
- ### R
-- [NLP]() 
-
-
+Coming soon!
 
 ---
 My [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-s-37aa011a8/).

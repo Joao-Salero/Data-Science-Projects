@@ -1,4 +1,4 @@
-README
+# Real-time Interactive Dashboard for Ethereum Prediction
 
 ## Título para descrever o conteúdo
 

@@ -1,4 +1,4 @@
-# Predict Buying Intent for E-Commerce Users - SVM
+# Predict Buying Intent for E-Commerce Users - [SVM](https://en.wikipedia.org/wiki/Support-vector_machine)
 
 ## Problem Definition
  In this Mini-Project, the target will be to evaluate which attributes influence a user to purchase products online and build a predictive model to make predictions of future purchases.

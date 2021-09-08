@@ -1,4 +1,4 @@
-# Monte Carlo Simulation and Time Series for Financial Modeling
+# [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) Simulation and Time Series for Financial Modeling
 
 ## Problem Definition
  In this Mini-Project, the target will be to evaluate which attributes influence a user to purchase products online and build a predictive model to make predictions of future purchases.

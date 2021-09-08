@@ -15,7 +15,7 @@ Dashboard to predict the value of the Ethereum cryptocurrency over time using [f
 
 A new tab will open on your browser and enjoy it!   
 #
-### Note:
+### Note
  - I will creat more periods (minutes, hours, days...) options as soon as possible;
  - I will rearrange the script. 
 
